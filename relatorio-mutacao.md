@@ -112,4 +112,4 @@ A melhora foi significativa: de 73.71% para 98.07%, indicando que a suite de tes
 
 ## Conclusao
 
-O teste de mutacao mostrou que cobertura alta nao garante qualidade de testes. Ao introduzir falhas artificiais, o Stryker revelou lacunas que nao eram visiveis com cobertura tradicional. A aplicacao dessa tecnica levou a testes mais precisos, cobrindo casos de borda e validando comportamento correto. Portanto, o teste de mutacao eh uma ferramenta essencial para avaliar a efetividade real de uma suite de testes.
+O teste de mutacao mostrou que cobertura alta nao garante qualidade de testes, ao introduzir falhas artificiais, o Stryker revelou lacunas que nao eram visiveis com cobertura tradicional e a aplicacao dessa tecnica levou a testes mais precisos, cobrindo casos de borda e validando comportamento correto. Portanto, o teste de mutacao eh uma ferramenta essencial para avaliar a efetividade real de uma suite de testes.
